@@ -1,0 +1,7 @@
+{
+  "name" : "phptest2",
+  "repositories" : [ {
+    "type" : "composer",
+    "url" : "https://packagist.org/"
+  } ]
+}
